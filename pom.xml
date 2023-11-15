@@ -19,7 +19,7 @@
     <description>Parent Pom for the WebGoat Project. A deliberately insecure Web Application</description>
     <inceptionYear>2006</inceptionYear>
     <url>https://github.com/WebGoat/WebGoat</url>
-
+<!-- developer 2 changes - first commit -->
     <organization>
         <name>OWASP</name>
         <url>https://github.com/WebGoat/WebGoat/</url>
